@@ -14,7 +14,7 @@ Vanilla JavaScript starter with TypeScript and Webpack.
 
     npm install  # install dependencies
 
-    npm run start:dev
+    npm start
     # visit http://localhost:8080
 
 ## Package project up in dist folder for release to server
