@@ -2,7 +2,7 @@
 
 JavaScript starter with TypeScript and webpack.
 
-* Includes a development environment with:
+Includes a development environment with:
   * webpack configuration for dev and production
   * Prettier config
   * Github Action workflow to test build
@@ -10,7 +10,10 @@ JavaScript starter with TypeScript and webpack.
 
 ## Customizing
 
-* Update webpack.config.js 'title' property.
+* Update `webpack.common.js` 'title' property
+* Update `package.json` 'name' value
+* Update `README.md` for your application
+* Add your application code to `src/index.ts`, create modules such as `src/hello.ts` and add tests such as `src/tests/hello.test.ts`.
 
 ## Run Local Dev Server
 
