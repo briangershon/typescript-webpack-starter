@@ -1,6 +1,8 @@
+import getMessage from './hello';
+
 function component() {
   const element = document.createElement('div');
-  element.innerHTML = 'Hello.';
+  element.innerHTML = `Hello ${getMessage()}.`;
   return element;
 }
 

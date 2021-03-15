@@ -6,6 +6,7 @@ JavaScript starter with TypeScript and webpack.
   * webpack configuration for dev and production
   * Prettier config
   * Github Action workflow to test build
+  * Jest testing
 
 ## Customizing
 
@@ -18,6 +19,11 @@ JavaScript starter with TypeScript and webpack.
 
     npm start
     # visit http://localhost:8080
+
+## Run tests
+
+    npm test    # test with --watch
+    npm run test-ci
 
 ## Package project up in dist folder for release to server
 
