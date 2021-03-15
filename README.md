@@ -13,6 +13,7 @@ JavaScript starter with TypeScript and webpack.
 
 ## Run Local Dev Server
 
+    nvm use      # select Node.js v14 if using nvm
     npm install  # install dependencies
 
     npm start
