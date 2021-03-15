@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-ts-webpack",
+  "name": "typescript-webpack-starter",
   "version": "1.0.0",
   "description": "Minimal TypeScript project. Built with webpack.",
   "scripts": {

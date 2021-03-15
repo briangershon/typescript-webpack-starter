@@ -1,10 +1,11 @@
-# vanilla-ts-webpack
+# typescript-webpack-starter
 
-Vanilla JavaScript starter with TypeScript and Webpack.
+JavaScript starter with TypeScript and webpack.
 
 * Includes a development environment with:
   * webpack configuration for dev and production
   * Prettier config
+  * Github Action workflow to test build
 
 ## Customizing
 
